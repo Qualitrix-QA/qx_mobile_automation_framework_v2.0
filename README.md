@@ -1,0 +1,1 @@
+# qx_mobile_automation_framework_v2.0
